@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# GitHub Portfolio
 
 ## 👨‍💻 About Me
 I'm Ashik Abdul Rasheed, a dedicated and passionate Bug Hunter and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world. Over the years, I've honed my skills in Python and various security tools, allowing me to identify vulnerabilities and secure systems effectively. I love solving complex problems and continuously learning to stay up-to-date with industry trends. I have also found vulnerabilities in Kerala government websites, showcasing my expertise in real-world scenarios.
